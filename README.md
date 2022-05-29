@@ -23,9 +23,13 @@
 - Uses auto-shrink font size and line break
 </br>
 
+<div align="center">
+
 | Arithmetic Operations  | Auto Shrink and Line Break | Percent and Plus-Minus Key  | Handling "0"s |
 | ------------- | ------------- | ------------- | ------------- |
-| <img src="Images/HowItWorks/ArithmeticOperations.gif" alt="drawing" width="300"/> | <img src="Images/HowItWorks/AutoShrink-LineBreak.gif" alt="drawing" width="300"/>  | <img src="Images/HowItWorks/SpecialOperators.gif" alt="drawing" width="300"/>  | <img src="Images/HowItWorks/DealWithZero.gif" alt="drawing" width="300"/>  |
+| <img src="Images/HowItWorks/ArithmeticOperations.gif" alt="drawing" width="220"/> | <img src="Images/HowItWorks/AutoShrink-LineBreak.gif" alt="drawing" width="220"/>  | <img src="Images/HowItWorks/SpecialOperators.gif" alt="drawing" width="220"/>  | <img src="Images/HowItWorks/DealWithZero.gif" alt="drawing" width="220"/>  |
+
+</div>
 
 # **MVC Pattern**
 - There is no logic or data in view and controller
